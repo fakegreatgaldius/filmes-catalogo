@@ -5,11 +5,11 @@
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
+
 &nbsp;
 # Título do Projeto
 Catálogo de Filmes
+
 &nbsp;
 # Descrição do Projeto
 Este projeto tem por objetivo a criação de um site com informações sobre filmes em geral. Contendo a sinopse, elenco, direção e informações básicas sobre os atores.
@@ -17,6 +17,7 @@ Este projeto tem por objetivo a criação de um site com informações sobre fil
 &nbsp;
 # Status do Projeto
 Em andamento
+
 &nbsp;
 # Acesso ao Projeto
 Produção: http://www.marcelogaldino.net.br
