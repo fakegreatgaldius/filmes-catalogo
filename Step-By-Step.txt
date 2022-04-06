@@ -1,0 +1,11 @@
+Listagem das Atividades Executadas
+Projeto Drupal - Site Catálogo de Filmes
+Passo 1: Instalação:
+        XAMP: x64-8.1.2-0-VS16;
+        Composer: 2.2.10;
+        Visual Studio Code: VSCodeSetup-x64-1.65.2;
+        Git: 2.35.1.2-64-bit
+        GitHub:  --> https://github.com/greatgaldius/catalogo-filmes
+        Drupal 9: drupal-9.3.9;
+        DRUSH 11;
+Passo 2: 
