@@ -8,4 +8,8 @@ Passo 1: Instalação:
         GitHub:  --> https://github.com/greatgaldius/catalogo-filmes
         Drupal 9: drupal-9.3.9;
         DRUSH 11;
-Passo 2: 
+Passo 2: Desenvolvimento do Site
+        Criação do tipo de conteúdo Filmes e Página;
+        Inserção dos dados sobre os filmes;
+        Criação da página home;
+
