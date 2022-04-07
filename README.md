@@ -30,9 +30,9 @@ http://localhost/filmes-catalogo/web/
 <abbr title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60"></abbr>
 <abbr title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60"></abbr>
 <abbr title="Composer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" align="center" heigth="50" width="60"/></abbr>
-<abbr title="Drupal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" align="center" heigth="50" width="60"/> </abbr></p>
+<abbr title="Drupal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" align="center" heigth="50" width="60"/> </abbr>
  <abbr title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" align="center" heigth="50" width="60"/> </abbr>
-<abbr title="GitHub"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="center" heigth="50" width="60" /></abbr> </p>
+<abbr title="GitHub"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" align="center" heigth="50" width="60"/></abbr> </p>
 
 &nbsp;
 &nbsp;
