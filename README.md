@@ -26,11 +26,11 @@ http://localhost/filmes-catalogo/web/
 &nbsp;
 &nbsp;
 # Tecnologias Utilizadas
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" heigth="50" width="60" />
+ <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" heigth="50" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" align="center" heigth="50" width="60"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" align="center" heigth="50" width="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" align="center" heigth="50" width="60"/> </p>
           
 
 &nbsp;
