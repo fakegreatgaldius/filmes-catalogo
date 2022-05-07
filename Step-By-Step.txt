@@ -13,5 +13,5 @@ Passo 2: Desenvolvimento do Site
         Inserção dos dados sobre os filmes;
         Criação da página home;
         Criação das páginas de Atores
-        Inclusão dos dados dos atores;
+        Inclusão dos dados dos atores.
 
